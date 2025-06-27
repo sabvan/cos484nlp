@@ -1,0 +1,22 @@
+
+Gurobi 12.0.1 (mac64[x86], gurobi_cl) logging started Sun Apr 20 12:52:41 2025
+
+Set parameter LogFile to value "gurobi.log"
+
+Gurobi 12.0.1 (mac64[x86], gurobi_cl) logging started Sun Apr 20 12:58:56 2025
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2654721
+Set parameter LogFile to value "gurobi.log"
+Using license file /Users/sabrinavan/gurobi.lic
+Academic license 2654721 - for non-commercial use only - registered to sv___@princeton.edu
+
+Gurobi 12.0.1 (mac64[x86], gurobi_cl) logging started Sun Apr 20 12:59:04 2025
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2654721
+Set parameter LogFile to value "gurobi.log"
+Using license file /Users/sabrinavan/gurobi.lic
+Academic license 2654721 - for non-commercial use only - registered to sv___@princeton.edu
